@@ -4,4 +4,4 @@ The existence of this organization is to organize and categorize repositories of
 
 It can be considered as a farewell to himself during this stage.
 
-Sadly no <u>public</u> repos is provided here. 
+Sadly **no public** repos is provided here. 
